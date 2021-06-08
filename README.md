@@ -1,4 +1,3 @@
-
 Task4-OpenCV :
 
 Task 4.1-Created an image by myself Using Python Code.
